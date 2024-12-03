@@ -1,0 +1,192 @@
+[
+  {
+    "question": "You are dealing with an unhappy customer who complains that the delivered product does not meet their expectations. How do you respond?",
+    "options": [
+      "Ignore the customer because it’s not your responsibility.",
+      "Redirect the customer to someone else without trying to help.",
+      "Actively listen to their concerns and propose a solution."
+    ],
+    "correctAnswer": 2,
+    "softSkill": "Problem-Solving"
+  },
+  {
+    "question": "During a team project, a colleague is struggling to finish their task, putting the project at risk. What do you do?",
+    "options": [
+      "Offer your help and work together to overcome the issue.",
+      "Focus only on your task and ignore the problem.",
+      "Complain to the manager about the colleague’s lack of progress."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Teamwork"
+  },
+  {
+    "question": "You are assigned a task that requires you to learn a new software tool. What is your approach?",
+    "options": [
+      "Refuse to do the task until you receive formal training.",
+      "Explore the tool yourself and start learning its features.",
+      "Ask someone else to complete the task for you."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Adaptability"
+  },
+  {
+    "question": "A coworker proposes an idea during a meeting, but it has several flaws. How do you respond?",
+    "options": [
+      "Suggest improvements to the idea in a constructive manner.",
+      "Point out all the flaws in their idea without offering alternatives.",
+      "Stay silent because it’s not your responsibility to critique ideas."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Communication"
+  },
+  {
+    "question": "You are under tight deadlines, and multiple tasks require your attention. What do you prioritize?",
+    "options": [
+      "Focus on the most urgent tasks first and communicate delays if needed.",
+      "Ignore all deadlines and focus on the easiest tasks.",
+      "Panic and try to do everything at once without a plan."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Time Management"
+  },
+  {
+    "question": "A new team member is struggling to integrate into the group. How do you assist them?",
+    "options": [
+      "Ignore them because they’ll figure it out eventually.",
+      "Give them a list of tasks without any explanation.",
+      "Welcome them, show them around, and introduce them to everyone."
+    ],
+    "correctAnswer": 2,
+    "softSkill": "Empathy"
+  },
+  {
+    "question": "You receive critical feedback on a project you worked hard on. How do you react?",
+    "options": [
+      "Dismiss the feedback and assume the person doesn’t understand your work.",
+      "Defend your work aggressively and refuse to make changes.",
+      "Listen carefully and use the feedback to improve your project."
+    ],
+    "correctAnswer": 2,
+    "softSkill": "Openness to Feedback"
+  },
+  {
+    "question": "You are leading a meeting, but the discussion becomes chaotic. What do you do?",
+    "options": [
+      "End the meeting without addressing the issues.",
+      "Let everyone continue talking without any intervention.",
+      "Take control, set clear rules, and guide the discussion."
+    ],
+    "correctAnswer": 2,
+    "softSkill": "Leadership"
+  },
+  {
+    "question": "Your team is facing a major challenge, and everyone is feeling demotivated. How do you respond?",
+    "options": [
+      "Motivate the team by reminding them of their strengths and the goal.",
+      "Ignore the situation and focus on your own tasks.",
+      "Blame the team for not working hard enough."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Motivational Skills"
+  },
+  {
+    "question": "A colleague asks for your help with a task, but you’re busy with your own work. How do you handle this?",
+    "options": [
+      "Agree to help even if it means missing your deadlines.",
+      "Assess your priorities and offer help if you can manage.",
+      "Ignore their request because you’re too busy."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Prioritization"
+  },
+  {
+    "question": "You notice two coworkers having a disagreement that affects team productivity. What do you do?",
+    "options": [
+      "Mediate the conflict by listening to both sides and finding common ground.",
+      "Ignore the conflict because it’s not your issue.",
+      "Take sides and escalate the disagreement."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Conflict Resolution"
+  },
+  {
+    "question": "You are tasked with presenting a project update to senior management. How do you prepare?",
+    "options": [
+      "Ask someone else to present on your behalf.",
+      "Practice your presentation and ensure key points are clear and concise.",
+      "Go in unprepared and hope for the best."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Presentation Skills"
+  },
+  {
+    "question": "A customer sends an email with unclear instructions for a project. How do you respond?",
+    "options": [
+      "Ask clarifying questions to understand their needs better.",
+      "Ignore the email and proceed as you think is best.",
+      "Complete the task without verifying the unclear points."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Clarification"
+  },
+  {
+    "question": "You are overwhelmed with tasks and starting to feel burned out. What do you do?",
+    "options": [
+      "Quit your responsibilities because it’s too stressful.",
+      "Prioritize your tasks and take short breaks to recharge.",
+      "Keep working without taking breaks to finish everything."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Stress Management"
+  },
+  {
+    "question": "You’re in charge of a project with tight deadlines. How do you ensure success?",
+    "options": [
+      "Delegate tasks effectively and monitor progress.",
+      "Work alone to avoid complications.",
+      "Wait until the last moment to start the project."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Delegation"
+  },
+  {
+    "question": "You are working on a project, and a sudden change in requirements is announced. How do you react?",
+    "options": [
+      "Complain about the change and delay your progress.",
+      "Adapt your plan to meet the new requirements efficiently.",
+      "Ignore the change and continue with the original plan."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Flexibility"
+  },
+  {
+    "question": "You are part of a brainstorming session, and your idea is rejected by the team. What do you do?",
+    "options": [
+      "Listen to the feedback and suggest improvements for your idea.",
+      "Stop participating in the discussion because your idea was not accepted.",
+      "Argue with the team to prove your idea is better."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Resilience"
+  },
+  {
+    "question": "A teammate shares sensitive information about a project with someone outside the team. How do you handle the situation?",
+    "options": [
+      "Confront the teammate aggressively in front of others.",
+      "Privately discuss the importance of confidentiality and report the issue if necessary.",
+      "Ignore the situation and hope it doesn’t happen again."
+    ],
+    "correctAnswer": 1,
+    "softSkill": "Ethical Responsibility"
+  },
+  {
+    "question": "Your manager assigns you a task that requires collaborating with a department you’ve never worked with before. What’s your approach?",
+    "options": [
+      "Take the initiative to introduce yourself and establish clear communication.",
+      "Avoid reaching out and wait for them to contact you first.",
+      "Complete your part without coordinating with the other department."
+    ],
+    "correctAnswer": 0,
+    "softSkill": "Interpersonal Skills"
+  }
+]
