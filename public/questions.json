@@ -7,7 +7,8 @@
       "Actively listen to their concerns and propose a solution."
     ],
     "correctAnswer": 2,
-    "softSkill": "Problem-Solving"
+    "softSkill": "Problem-Solving",
+    "definition": "The ability to identify issues, analyze potential solutions, and implement the most effective approach to resolve problems."
   },
   {
     "question": "During a team project, a colleague is struggling to finish their task, putting the project at risk. What do you do?",
@@ -17,7 +18,8 @@
       "Complain to the manager about the colleague’s lack of progress."
     ],
     "correctAnswer": 0,
-    "softSkill": "Teamwork"
+    "softSkill": "Teamwork",
+    "definition": "The ability to work collaboratively with others toward a common goal, leveraging individual strengths and fostering mutual support."
   },
   {
     "question": "You are assigned a task that requires you to learn a new software tool. What is your approach?",
@@ -27,7 +29,8 @@
       "Ask someone else to complete the task for you."
     ],
     "correctAnswer": 1,
-    "softSkill": "Adaptability"
+    "softSkill": "Adaptability",
+    "definition": "The ability to adjust to new conditions, challenges, or changes in the workplace with flexibility and resourcefulness."
   },
   {
     "question": "A coworker proposes an idea during a meeting, but it has several flaws. How do you respond?",
@@ -37,7 +40,8 @@
       "Stay silent because it’s not your responsibility to critique ideas."
     ],
     "correctAnswer": 0,
-    "softSkill": "Communication"
+    "softSkill": "Communication",
+    "definition": "The ability to express ideas clearly, actively listen, and engage in constructive dialogue with others."
   },
   {
     "question": "You are under tight deadlines, and multiple tasks require your attention. What do you prioritize?",
@@ -47,7 +51,8 @@
       "Panic and try to do everything at once without a plan."
     ],
     "correctAnswer": 0,
-    "softSkill": "Time Management"
+    "softSkill": "Time Management",
+    "definition": "The ability to plan and organize tasks effectively to meet deadlines and maximize productivity."
   },
   {
     "question": "A new team member is struggling to integrate into the group. How do you assist them?",
@@ -57,7 +62,8 @@
       "Welcome them, show them around, and introduce them to everyone."
     ],
     "correctAnswer": 2,
-    "softSkill": "Empathy"
+    "softSkill": "Empathy",
+    "definition": "The ability to understand and share the feelings of others, fostering trust and connection."
   },
   {
     "question": "You receive critical feedback on a project you worked hard on. How do you react?",
@@ -67,7 +73,8 @@
       "Listen carefully and use the feedback to improve your project."
     ],
     "correctAnswer": 2,
-    "softSkill": "Openness to Feedback"
+    "softSkill": "Openness to Feedback",
+    "definition": "The ability to accept constructive criticism and use it to grow and improve professionally."
   },
   {
     "question": "You are leading a meeting, but the discussion becomes chaotic. What do you do?",
@@ -77,7 +84,8 @@
       "Take control, set clear rules, and guide the discussion."
     ],
     "correctAnswer": 2,
-    "softSkill": "Leadership"
+    "softSkill": "Leadership",
+    "definition": "The ability to inspire, guide, and organize a group to achieve shared objectives."
   },
   {
     "question": "Your team is facing a major challenge, and everyone is feeling demotivated. How do you respond?",
@@ -87,7 +95,8 @@
       "Blame the team for not working hard enough."
     ],
     "correctAnswer": 0,
-    "softSkill": "Motivational Skills"
+    "softSkill": "Motivational Skills",
+    "definition": "The ability to inspire and encourage others to stay committed and perform at their best."
   },
   {
     "question": "A colleague asks for your help with a task, but you’re busy with your own work. How do you handle this?",
@@ -97,7 +106,8 @@
       "Ignore their request because you’re too busy."
     ],
     "correctAnswer": 1,
-    "softSkill": "Prioritization"
+    "softSkill": "Prioritization",
+    "definition": "The ability to determine the order of tasks based on importance and urgency to optimize results."
   },
   {
     "question": "You notice two coworkers having a disagreement that affects team productivity. What do you do?",
@@ -107,7 +117,8 @@
       "Take sides and escalate the disagreement."
     ],
     "correctAnswer": 0,
-    "softSkill": "Conflict Resolution"
+    "softSkill": "Conflict Resolution",
+    "definition": "The ability to address and resolve disagreements in a constructive and fair manner."
   },
   {
     "question": "You are tasked with presenting a project update to senior management. How do you prepare?",
@@ -117,7 +128,8 @@
       "Go in unprepared and hope for the best."
     ],
     "correctAnswer": 1,
-    "softSkill": "Presentation Skills"
+    "softSkill": "Presentation Skills",
+    "definition": "The ability to effectively convey ideas and information to an audience in a clear and engaging manner."
   },
   {
     "question": "A customer sends an email with unclear instructions for a project. How do you respond?",
@@ -127,7 +139,8 @@
       "Complete the task without verifying the unclear points."
     ],
     "correctAnswer": 0,
-    "softSkill": "Clarification"
+    "softSkill": "Clarification",
+    "definition": "The ability to ask questions and seek details to ensure mutual understanding and avoid misunderstandings."
   },
   {
     "question": "You are overwhelmed with tasks and starting to feel burned out. What do you do?",
@@ -137,7 +150,8 @@
       "Keep working without taking breaks to finish everything."
     ],
     "correctAnswer": 1,
-    "softSkill": "Stress Management"
+    "softSkill": "Stress Management",
+    "definition": "The ability to handle pressure effectively by managing time, emotions, and well-being."
   },
   {
     "question": "You’re in charge of a project with tight deadlines. How do you ensure success?",
@@ -147,7 +161,8 @@
       "Wait until the last moment to start the project."
     ],
     "correctAnswer": 0,
-    "softSkill": "Delegation"
+    "softSkill": "Delegation",
+    "definition": "The ability to assign tasks to others based on their strengths while maintaining accountability."
   },
   {
     "question": "You are working on a project, and a sudden change in requirements is announced. How do you react?",
@@ -157,7 +172,8 @@
       "Ignore the change and continue with the original plan."
     ],
     "correctAnswer": 1,
-    "softSkill": "Flexibility"
+    "softSkill": "Flexibility",
+    "definition": "The ability to adjust plans and strategies in response to new circumstances or challenges."
   },
   {
     "question": "You are part of a brainstorming session, and your idea is rejected by the team. What do you do?",
@@ -167,7 +183,8 @@
       "Argue with the team to prove your idea is better."
     ],
     "correctAnswer": 0,
-    "softSkill": "Resilience"
+    "softSkill": "Resilience",
+    "definition": "The ability to recover quickly from setbacks and remain determined to achieve goals."
   },
   {
     "question": "A teammate shares sensitive information about a project with someone outside the team. How do you handle the situation?",
@@ -177,7 +194,8 @@
       "Ignore the situation and hope it doesn’t happen again."
     ],
     "correctAnswer": 1,
-    "softSkill": "Ethical Responsibility"
+    "softSkill": "Ethical Responsibility",
+    "definition": "The ability to make decisions and take actions that align with moral and professional principles."
   },
   {
     "question": "Your manager assigns you a task that requires collaborating with a department you’ve never worked with before. What’s your approach?",
@@ -187,6 +205,7 @@
       "Complete your part without coordinating with the other department."
     ],
     "correctAnswer": 0,
-    "softSkill": "Interpersonal Skills"
+    "softSkill": "Interpersonal Skills",
+    "definition": "The ability to build and maintain positive relationships through effective communication and collaboration."
   }
 ]

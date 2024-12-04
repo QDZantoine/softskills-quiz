@@ -3,5 +3,6 @@
     options: string[];
     correctAnswer: number;
     softSkill: string;
+    definition: string;
   }>
   export type { Question };

@@ -1,9 +1,8 @@
 'use client';
-
 import React, { useState, useEffect } from 'react';
 import { Question } from '../types/type';
 import Image from 'next/image';
-import { Meteors } from './ui/Meteors'; // Assurez-vous de créer ce composant Meteors.
+import { Meteors } from './ui/Meteors';
 
 const Quiz: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -11,6 +10,7 @@ const Quiz: React.FC = () => {
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
   const [feedbackMessage, setFeedbackMessage] = useState<string | null>(null);
   const [hasSubmitted, setHasSubmitted] = useState<boolean>(false);
+  const [showDefinition, setShowDefinition] = useState<boolean>(false);
 
   useEffect(() => {
     fetch('/questions.json')
@@ -53,14 +53,13 @@ const Quiz: React.FC = () => {
       {!currentQuestion ? (
         <div className="relative bg-black/70 text-white rounded-lg p-8 shadow-2xl max-w-2xl mx-auto backdrop-blur-md overflow-hidden">
           <div className="relative h-32 -mt-8">
-            {/* Ajout des météores ici */}
             <Meteors color="rgba(255, 255, 255, 0.1)" count={10} />
             <div className="absolute inset-0 flex justify-center items-center">
               <Image
                 src="/img/logo-white.svg"
                 alt="Logo"
-                width={150}
-                height={150}
+                width={500}
+                height={500}
                 className="object-contain"
               />
             </div>
@@ -116,10 +115,26 @@ const Quiz: React.FC = () => {
               </p>
               {currentQuestion?.softSkill &&
                 selectedAnswer === currentQuestion.correctAnswer && (
-                  <div className="inline-block mt-4 px-6 py-3 bg-gradient-to-r from-blue-500 to-yellow-400 text-white font-bold rounded-full shadow-lg">
+                  <button
+                    onClick={() => setShowDefinition(true)}
+                    className="inline-block mt-4 px-6 py-3 bg-gradient-to-r from-blue-500 to-yellow-400 text-white font-bold rounded-full shadow-lg hover:scale-105 transition-transform"
+                  >
                     {currentQuestion.softSkill}
-                  </div>
+                  </button>
                 )}
+              {showDefinition && (
+                <div className="mt-6 p-4 bg-slate-800 rounded-lg">
+                  <p className="text-white text-sm">
+                    {currentQuestion.definition}
+                  </p>
+                  <button
+                    onClick={() => setShowDefinition(false)}
+                    className="w-full mt-6 bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 text-white font-semibold py-3 px-6 rounded-full hover:scale-105 transition-transform duration-300"
+                  >
+                    Close
+                  </button>
+                </div>
+              )}
             </div>
           )}
         </div>
